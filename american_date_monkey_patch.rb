@@ -1,5 +1,5 @@
 require 'date'
-gem 'activerecord', '~> 2.3'
+gem 'activerecord'
 
 ##
 # &copy; 2009 Andrew Coleman
